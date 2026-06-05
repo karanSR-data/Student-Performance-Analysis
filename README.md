@@ -56,7 +56,6 @@ This project is focused on analyzing student performance data to uncover insight
    SPA_Mini_Project.ipynb
 
 
-
 ## ✅ Skills Demonstrated :
 
 => Data Cleaning & Exploration
@@ -69,7 +68,6 @@ This project is focused on analyzing student performance data to uncover insight
 => Add ML model to predict student performance.
 => Explore more datasets with demographic diversity.
 => Use interactive visualizations (e.g., Plotly).
-
 
 ## 🙋‍♂️ Author
 
