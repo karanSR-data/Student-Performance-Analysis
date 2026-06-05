@@ -72,7 +72,8 @@ This project is focused on analyzing student performance data to uncover insight
 
 
 ## 🙋‍♂️ Author
+
 Karan Singh Rajput
 Mini Project | Data Analysis using Python
-📧 Email ID -> karansinghrajput2022@vitbhopal.ac.in
+📧 Email ID -> rajputkaransingh997@gmail.com
 🔗 GitHub: [https://github.com/karanSR-data] 
