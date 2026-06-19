@@ -8,7 +8,7 @@ This project is focused on analyzing student performance data to uncover insight
 
 1. **Import Libraries**
    - Loaded essential Python libraries such as `pandas`, `matplotlib.pyplot`, and `seaborn` for data manipulation and visualization.
-     
+
 2. **Load Dataset**
    - Used a CSV file containing student performance data.
    - Displayed the first few rows to get an overview.
